@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\NetCoreClient",
+    "\\NetCoreClient\\Protocols",
+    "\\NetCoreClient\\ValueObjects"
+  ],
+  "SelectedNode": "\\NetCoreClient\\ValueObjects\\Vehicle.cs",
+  "PreviewInSolutionExplorer": false
+}
