@@ -1,7 +1,9 @@
-﻿namespace NetCoreClient.Sensors
+﻿using NetCoreClient.ValueObjects;
+
+namespace NetCoreClient.Sensors
 {
     interface IDoorSensorInterface
     {
-        string DoorLock();
+        CarDoors GetDoorStatus();
     }
 }

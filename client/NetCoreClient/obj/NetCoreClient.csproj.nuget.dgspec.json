@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fai il bravo\\Desktop\\valle Stefano - git\\2024-Protocolli\\iot-protocols-master\\client\\NetCoreClient\\NetCoreClient.csproj": {}
+    "C:\\Users\\fai il bravo\\Desktop\\valle Stefano - git\\2024-Protocolli\\iot-protocols\\client\\NetCoreClient\\NetCoreClient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fai il bravo\\Desktop\\valle Stefano - git\\2024-Protocolli\\iot-protocols-master\\client\\NetCoreClient\\NetCoreClient.csproj": {
+    "C:\\Users\\fai il bravo\\Desktop\\valle Stefano - git\\2024-Protocolli\\iot-protocols\\client\\NetCoreClient\\NetCoreClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fai il bravo\\Desktop\\valle Stefano - git\\2024-Protocolli\\iot-protocols-master\\client\\NetCoreClient\\NetCoreClient.csproj",
+        "projectUniqueName": "C:\\Users\\fai il bravo\\Desktop\\valle Stefano - git\\2024-Protocolli\\iot-protocols\\client\\NetCoreClient\\NetCoreClient.csproj",
         "projectName": "NetCoreClient",
-        "projectPath": "C:\\Users\\fai il bravo\\Desktop\\valle Stefano - git\\2024-Protocolli\\iot-protocols-master\\client\\NetCoreClient\\NetCoreClient.csproj",
+        "projectPath": "C:\\Users\\fai il bravo\\Desktop\\valle Stefano - git\\2024-Protocolli\\iot-protocols\\client\\NetCoreClient\\NetCoreClient.csproj",
         "packagesPath": "C:\\Users\\fai il bravo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fai il bravo\\Desktop\\valle Stefano - git\\2024-Protocolli\\iot-protocols-master\\client\\NetCoreClient\\obj\\",
+        "outputPath": "C:\\Users\\fai il bravo\\Desktop\\valle Stefano - git\\2024-Protocolli\\iot-protocols\\client\\NetCoreClient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fai il bravo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "MQTTnet": {
+              "target": "Package",
+              "version": "[4.1.2.350, )"
+            },
             "Microsoft.Extensions.Configuration.Json": {
               "target": "Package",
               "version": "[6.0.0, )"

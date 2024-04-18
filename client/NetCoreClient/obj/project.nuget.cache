@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NzNXBL0+KVlKIvYAsob1Qf+HsZl+/A4QvhiYG+10awE6SXxmwsWHXoJvspCmYPBp6C1LekTPJmqSsJeis+UwyA==",
+  "dgSpecHash": "35iL0Kys0TKSzJo8JyR8vuWfJr3UOyeMlOfgZ5mIhAZXlvw0lX3OmbwagGOZCnShQqokUWblTfe4oJAxcVoHXQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fai il bravo\\Desktop\\valle Stefano - git\\2024-Protocolli\\iot-protocols-master\\client\\NetCoreClient\\NetCoreClient.csproj",
+  "projectFilePath": "C:\\Users\\fai il bravo\\Desktop\\valle Stefano - git\\2024-Protocolli\\iot-protocols\\client\\NetCoreClient\\NetCoreClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fai il bravo\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
     "C:\\Users\\fai il bravo\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
@@ -12,6 +12,7 @@
     "C:\\Users\\fai il bravo\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\6.0.0\\microsoft.extensions.fileproviders.physical.6.0.0.nupkg.sha512",
     "C:\\Users\\fai il bravo\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\6.0.0\\microsoft.extensions.filesystemglobbing.6.0.0.nupkg.sha512",
     "C:\\Users\\fai il bravo\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\fai il bravo\\.nuget\\packages\\mqttnet\\4.1.2.350\\mqttnet.4.1.2.350.nupkg.sha512",
     "C:\\Users\\fai il bravo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\fai il bravo\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\fai il bravo\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"

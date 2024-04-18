@@ -17,13 +17,17 @@ class VirtualPositionSensor : ISensorInterface, IPositionSensorInterface
         Random = new Random();
     }
 
-    public Position Position()
+    public Position GetPosition()
     {
         return new Position(Random.Next(50), Random.Next(100));
     }
 
     public string ToJson()
     {
-        return JsonSerializer.Serialize(Position());
+        return JsonSerializer.Serialize(GetPosition());
+    }
+    public string GetSlug()
+    {
+        return "position";
     }
 }

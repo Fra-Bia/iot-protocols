@@ -1,23 +1,31 @@
-﻿using System.Text.Json;
+﻿using NetCoreClient.ValueObjects;
+using System.Text.Json;
 
 namespace NetCoreClient.Sensors;
 
 class VirtualDoorSensor : IDoorSensorInterface, ISensorInterface
 {
+    private readonly string doorOpen;
     private readonly string doorLock;
 
     public VirtualDoorSensor()
     {
-        doorLock = new Random().Next(2) == 0 ? "Yes" : "No";
+        doorOpen = new Random().Next(2) == 0 ? "Yes" : "No";
+        //doorLock = new Random().Next(2) == 0 ? "Yes" : "No";
+        doorLock = "Yes";
     }
 
-    public string DoorLock()
+    public CarDoors GetDoorStatus()
     {
-        return doorLock;
+        return new CarDoors(doorOpen, doorLock);
     }
 
     public string ToJson()
     {
-        return JsonSerializer.Serialize(DoorLock());
+        return JsonSerializer.Serialize(GetDoorStatus());
+    }
+    public string GetSlug()
+    {
+        return "door";
     }
 }
