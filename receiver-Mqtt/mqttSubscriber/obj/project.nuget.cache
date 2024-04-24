@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B1gCfsSLNZjRftu0+aaqKSJvfh9kr7puytBnRmEdZedOUWIYETEPyPDCH3xKqCJFQ8G9bvCOVKdpjETms7jKLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Utente\\Desktop\\DottorStage\\mqttSubscriber\\mqttSubscriber\\mqttSubscriber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Utente\\.nuget\\packages\\mqttnet\\4.1.2.350\\mqttnet.4.1.2.350.nupkg.sha512"
+  ],
+  "logs": []
+}
