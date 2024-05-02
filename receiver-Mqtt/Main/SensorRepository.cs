@@ -12,7 +12,11 @@ internal class SensorRepository
     private readonly ILogger<SensorRepository> _logger;
     private readonly string _connectionString;      //usersecret
 
-    private const string ConnectionString = "Server=tcp:its-iiot.database.windows.net,1433;Initial Catalog=IIOT;Persist Security Info=False;User ID=its;Password=IIOT-2023;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
+    public SensorRepository(ILogger<SensorRepository> logger, IConfiguration configuration)
+    {
+        _logger = logger;
+        _connectionString = configuration.GetConnectionString("db");
+    }
 
     //#########################################################################
     public async Task InsertAsync(SensorData speed)
@@ -38,7 +42,7 @@ internal class SensorRepository
                     @_receivedDateTime);
             """;
 
-        using var connection = new SqlConnection(ConnectionString);
+        using var connection = new SqlConnection(_connectionString);
         await connection.ExecuteAsync(query, dbSpeed);
         _logger.LogInformation($"Data inserted at: {DateTimeOffset.Now}");
     }
