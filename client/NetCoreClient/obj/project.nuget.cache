@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "35iL0Kys0TKSzJo8JyR8vuWfJr3UOyeMlOfgZ5mIhAZXlvw0lX3OmbwagGOZCnShQqokUWblTfe4oJAxcVoHXQ==",
+  "dgSpecHash": "0oX0PANTjnI0ic1prgxDtbGrHEDqaPiTWYO2/xdyXwg25Y/Vz0h8VKHqymTc+kapcQn/rxWMwVWKgXExXmKVxw==",
   "success": true,
   "projectFilePath": "C:\\Users\\fai il bravo\\Desktop\\valle Stefano - git\\2024-Protocolli\\iot-protocols\\client\\NetCoreClient\\NetCoreClient.csproj",
   "expectedPackageFiles": [
@@ -8,14 +8,18 @@
     "C:\\Users\\fai il bravo\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\fai il bravo\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\6.0.0\\microsoft.extensions.configuration.fileextensions.6.0.0.nupkg.sha512",
     "C:\\Users\\fai il bravo\\.nuget\\packages\\microsoft.extensions.configuration.json\\6.0.0\\microsoft.extensions.configuration.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\fai il bravo\\.nuget\\packages\\microsoft.extensions.configuration.usersecrets\\6.0.1\\microsoft.extensions.configuration.usersecrets.6.0.1.nupkg.sha512",
     "C:\\Users\\fai il bravo\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\6.0.0\\microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\fai il bravo\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\6.0.0\\microsoft.extensions.fileproviders.physical.6.0.0.nupkg.sha512",
     "C:\\Users\\fai il bravo\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\6.0.0\\microsoft.extensions.filesystemglobbing.6.0.0.nupkg.sha512",
     "C:\\Users\\fai il bravo\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\fai il bravo\\.nuget\\packages\\mqttnet\\4.1.2.350\\mqttnet.4.1.2.350.nupkg.sha512",
+    "C:\\Users\\fai il bravo\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\fai il bravo\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
     "C:\\Users\\fai il bravo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\fai il bravo\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
-    "C:\\Users\\fai il bravo\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
+    "C:\\Users\\fai il bravo\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\fai il bravo\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }

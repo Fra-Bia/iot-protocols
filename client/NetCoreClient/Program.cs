@@ -8,7 +8,8 @@ sensors.Add(new VirtualSpeedSensor());
 
 // define protocol -- definisco il protocollo per l'invio dei dati (http, mqtt, ecc..)
 //IProtocolInterface protocol = new Http("http://localhost:8011/cars/123");
-IProtocolInterface protocol = new Mqtt("test.mosquitto.org");
+//IProtocolInterface protocol = new Mqtt("test.mosquitto.org");
+IProtocolInterface protocol = new Amqp("goose.rmq2.cloudamqp.com", "vbjpzwcd", "vbjpzwcd", "dFP7zLZEd8Fll6h32fdvgyBQeoby3Vb5");
 
 // send data to server
 while (true)
@@ -23,5 +24,4 @@ while (true)
 
         Thread.Sleep(5000);
     }
-
 }

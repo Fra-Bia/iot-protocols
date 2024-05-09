@@ -47,3 +47,31 @@ C:\Users\Utente\Desktop\iot protocols\client\NetCoreClient\obj\Debug\net6.0\refi
 C:\Users\Utente\Desktop\iot protocols\client\NetCoreClient\obj\Debug\net6.0\NetCoreClient.pdb
 C:\Users\Utente\Desktop\iot protocols\client\NetCoreClient\obj\Debug\net6.0\NetCoreClient.genruntimeconfig.cache
 C:\Users\Utente\Desktop\iot protocols\client\NetCoreClient\obj\Debug\net6.0\ref\NetCoreClient.dll
+C:\Users\fai il bravo\Desktop\valle Stefano - git\2024-Protocolli\iot-protocols\client\NetCoreClient\bin\Debug\net6.0\NetCoreClient.exe
+C:\Users\fai il bravo\Desktop\valle Stefano - git\2024-Protocolli\iot-protocols\client\NetCoreClient\bin\Debug\net6.0\NetCoreClient.deps.json
+C:\Users\fai il bravo\Desktop\valle Stefano - git\2024-Protocolli\iot-protocols\client\NetCoreClient\bin\Debug\net6.0\NetCoreClient.runtimeconfig.json
+C:\Users\fai il bravo\Desktop\valle Stefano - git\2024-Protocolli\iot-protocols\client\NetCoreClient\bin\Debug\net6.0\NetCoreClient.dll
+C:\Users\fai il bravo\Desktop\valle Stefano - git\2024-Protocolli\iot-protocols\client\NetCoreClient\bin\Debug\net6.0\NetCoreClient.pdb
+C:\Users\fai il bravo\Desktop\valle Stefano - git\2024-Protocolli\iot-protocols\client\NetCoreClient\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\fai il bravo\Desktop\valle Stefano - git\2024-Protocolli\iot-protocols\client\NetCoreClient\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\fai il bravo\Desktop\valle Stefano - git\2024-Protocolli\iot-protocols\client\NetCoreClient\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\fai il bravo\Desktop\valle Stefano - git\2024-Protocolli\iot-protocols\client\NetCoreClient\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\fai il bravo\Desktop\valle Stefano - git\2024-Protocolli\iot-protocols\client\NetCoreClient\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\fai il bravo\Desktop\valle Stefano - git\2024-Protocolli\iot-protocols\client\NetCoreClient\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\fai il bravo\Desktop\valle Stefano - git\2024-Protocolli\iot-protocols\client\NetCoreClient\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\fai il bravo\Desktop\valle Stefano - git\2024-Protocolli\iot-protocols\client\NetCoreClient\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\fai il bravo\Desktop\valle Stefano - git\2024-Protocolli\iot-protocols\client\NetCoreClient\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\fai il bravo\Desktop\valle Stefano - git\2024-Protocolli\iot-protocols\client\NetCoreClient\bin\Debug\net6.0\MQTTnet.dll
+C:\Users\fai il bravo\Desktop\valle Stefano - git\2024-Protocolli\iot-protocols\client\NetCoreClient\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\fai il bravo\Desktop\valle Stefano - git\2024-Protocolli\iot-protocols\client\NetCoreClient\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\fai il bravo\Desktop\valle Stefano - git\2024-Protocolli\iot-protocols\client\NetCoreClient\obj\Debug\net6.0\NetCoreClient.csproj.AssemblyReference.cache
+C:\Users\fai il bravo\Desktop\valle Stefano - git\2024-Protocolli\iot-protocols\client\NetCoreClient\obj\Debug\net6.0\NetCoreClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fai il bravo\Desktop\valle Stefano - git\2024-Protocolli\iot-protocols\client\NetCoreClient\obj\Debug\net6.0\NetCoreClient.AssemblyInfoInputs.cache
+C:\Users\fai il bravo\Desktop\valle Stefano - git\2024-Protocolli\iot-protocols\client\NetCoreClient\obj\Debug\net6.0\NetCoreClient.AssemblyInfo.cs
+C:\Users\fai il bravo\Desktop\valle Stefano - git\2024-Protocolli\iot-protocols\client\NetCoreClient\obj\Debug\net6.0\NetCoreClient.csproj.CoreCompileInputs.cache
+C:\Users\fai il bravo\Desktop\valle Stefano - git\2024-Protocolli\iot-protocols\client\NetCoreClient\obj\Debug\net6.0\NetCoreClient.csproj.CopyComplete
+C:\Users\fai il bravo\Desktop\valle Stefano - git\2024-Protocolli\iot-protocols\client\NetCoreClient\obj\Debug\net6.0\NetCoreClient.dll
+C:\Users\fai il bravo\Desktop\valle Stefano - git\2024-Protocolli\iot-protocols\client\NetCoreClient\obj\Debug\net6.0\refint\NetCoreClient.dll
+C:\Users\fai il bravo\Desktop\valle Stefano - git\2024-Protocolli\iot-protocols\client\NetCoreClient\obj\Debug\net6.0\NetCoreClient.pdb
+C:\Users\fai il bravo\Desktop\valle Stefano - git\2024-Protocolli\iot-protocols\client\NetCoreClient\obj\Debug\net6.0\NetCoreClient.genruntimeconfig.cache
+C:\Users\fai il bravo\Desktop\valle Stefano - git\2024-Protocolli\iot-protocols\client\NetCoreClient\obj\Debug\net6.0\ref\NetCoreClient.dll
