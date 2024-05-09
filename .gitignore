@@ -60,5 +60,5 @@ typings/
 # IDEs
 .idea
 
-**/.vs/*
-**/obj/*
+*.vs/*
+*obj/*
