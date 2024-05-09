@@ -1,5 +1,0 @@
-C:\Users\Utente\Desktop\DottorStage\mqttSubscriber\mqttSubscriber\obj\Debug\net7.0\mqttSubscriber.csproj.AssemblyReference.cache
-C:\Users\Utente\Desktop\DottorStage\mqttSubscriber\mqttSubscriber\obj\Debug\net7.0\mqttSubscriber.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Utente\Desktop\DottorStage\mqttSubscriber\mqttSubscriber\obj\Debug\net7.0\mqttSubscriber.AssemblyInfoInputs.cache
-C:\Users\Utente\Desktop\DottorStage\mqttSubscriber\mqttSubscriber\obj\Debug\net7.0\mqttSubscriber.AssemblyInfo.cs
-C:\Users\Utente\Desktop\DottorStage\mqttSubscriber\mqttSubscriber\obj\Debug\net7.0\mqttSubscriber.csproj.CoreCompileInputs.cache
